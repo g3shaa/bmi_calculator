@@ -5,6 +5,8 @@ This is a simple BMI (Body Mass Index) Calculator application created using Pyth
 ## Overview
 
 The BMI Calculator is a user-friendly tool that allows users to calculate their Body Mass Index, which is a measure of body fat based on your height and weight. The application provides a modern and intuitive user interface to input your height, weight, age, and gender, and it calculates your BMI, provides a category based on your age and gender, and gives recommendations for maintaining a healthy weight.
+
+
 <img src = "https://media.discordapp.net/attachments/1148577392760209439/1166073828963794954/image.png?ex=654929e1&is=6536b4e1&hm=52aeb925371d55ec3bbe0dfc74b6b95cfe0805ea6f2cae7c0df9e614edd713e3&=&width=299&height=468"/>
 ## Features
 
